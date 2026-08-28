@@ -1,0 +1,6 @@
+.env
+Members.json
+__pycache__/
+*.pyc
+.idea/
+.venv/
